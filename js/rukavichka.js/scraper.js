@@ -1,5 +1,3 @@
-// scraper.js
-
 const cheerio = require('cheerio');
 
 async function scrapePage() {
